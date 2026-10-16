@@ -1,0 +1,10 @@
+.add-book-form {
+  width: 100%;
+  max-width: 1000px;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.add-book-form .small-width {
+  max-width: 120px;
+}
